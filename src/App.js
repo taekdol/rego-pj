@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          씨발 존나하기 싫다아아~~sadsadsaddddd
+          씨발 존나하기 싫다아아~~sadsadsadddddddd
         </a>
       </header>
     </div>
